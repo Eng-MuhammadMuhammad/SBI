@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/SBI/static/css/main.18b76512.css",
+    "main.js": "/SBI/static/js/main.1da1d23f.js",
+    "static/media/logo.png": "/SBI/static/media/logo.cba394138a52af690a75.png",
+    "index.html": "/SBI/index.html",
+    "main.18b76512.css.map": "/SBI/static/css/main.18b76512.css.map",
+    "main.1da1d23f.js.map": "/SBI/static/js/main.1da1d23f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.18b76512.css",
+    "static/js/main.1da1d23f.js"
+  ]
+}
